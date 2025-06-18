@@ -319,10 +319,12 @@
         margin-bottom: 20px;
     }
 
-    .freespingitem1 {
+   .freespingitem1 {
         width: 50%;
         height: 65px;
         border-radius: 8px;
+        position: relative;
+        left: -3%;
     }
 
     .freespingitem2 {
@@ -543,7 +545,8 @@
     }
 
     .freespinglogos img {
-        height: 68px;
+        height: 74px;
+        width: 155px;
     }
 
     .footer-part {
@@ -633,6 +636,7 @@
 
     .newfespinsitem1-logo img {
         height: 63px;
+        width: 148px;
     }
 
     .newfreespinsitem1 {
@@ -656,8 +660,8 @@
     }
 
     .hero-left h6 {
-        font-size: 13px;
-        line-height: 20px;
+        font-size: 12px;
+        line-height: 18px;
     }
 
     .hero-right img {
