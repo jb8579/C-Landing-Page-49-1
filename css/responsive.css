@@ -1,0 +1,740 @@
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .texthero-left h6 br {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .hero-left h1 {
+        font-size: 48px;
+        line-height: 65px;
+    }
+
+    .hero-left h6 br {
+        display: none;
+    }
+
+    .hero-left ul {
+        padding-top: 40px;
+    }
+
+    .hero-left ul li img {
+        max-width: 100%;
+        display: block;
+        height: 23px;
+    }
+
+    .hero-left ul li p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-left: 29px;
+        margin-top: -25px;
+    }
+
+    .hero-left ul li {
+        padding-right: 18px;
+    }
+
+    .freespingitem4 a {
+        font-size: 13px;
+        padding: 14px 5px;
+    }
+
+    .freespingtext1 {
+        padding-left: 25px;
+    }
+
+    .newfespinsitem2-left h3 span {
+        font-size: 15px;
+        padding: 4px 15px;
+        line-height: 22px;
+        margin-right: 6px;
+    }
+
+    .newfespinsitem2-left h3 {
+        font-size: 12px;
+    }
+
+    .newfespinsitem1-right p {
+        font-size: 11px;
+    }
+
+    .newfespinsitem1-right h3 {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .newfreespinsitem1 {
+        gap: 0px;
+        padding-bottom: 15px;
+    }
+
+    .newfespinsitem2-right a {
+        font-size: 11px;
+        border-radius: 7px;
+        margin-right: 0px;
+        padding: 11px 5px;
+    }
+
+    .footer-part {
+        gap: 50px;
+    }
+
+    .footerleft {
+        width: 80%;
+    }
+
+    .footerright {
+        width: 20%;
+    }
+
+    .freeOffre-part p {
+        font-size: 10px;
+        line-height: 25px;
+    }
+
+    .imgitem1 {
+        display: none;
+    }
+
+    .imgitem2 {
+        display: none;
+    }
+
+    .texthero-left h6 br {
+        display: none;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .newfreespins-part {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .hero-left h1 {
+        font-size: 35px;
+        line-height: 48px;
+    }
+
+    .hero-left h6 br {
+        display: none;
+    }
+
+    .hero-left ul li {
+        padding-right: 20px;
+        padding-bottom: 24px;
+    }
+
+    .hero-area {
+        padding: 60px 0;
+    }
+
+    .imgitem1 {
+        display: none;
+    }
+
+    .imgitem2 {
+        display: none;
+    }
+
+    .freespingpart {
+        display: block;
+        height: initial;
+    }
+
+    .mainitemleft {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .mainitemright {
+        width: 100%;
+    }
+
+    .freespingtext2 {
+        width: 25%;
+    }
+
+    .freespingitem3 {
+        width: 25%;
+    }
+
+    .freespingitem4 {
+        width: 50%;
+    }
+
+    .freeOffre-part p {
+        font-size: 12px;
+        text-align: left;
+        line-height: 23px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .newfreespinsitem1 {
+        gap: 8px;
+    }
+
+    .newfespinsitem2-right a {
+        font-size: 11px;
+    }
+
+    .footerleft {
+        width: 80%;
+    }
+    .footerright {
+        width: 20%;
+    }
+
+    .footer-part {
+        gap: 50px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 14px;
+    }
+
+    .footer-nav h3 {
+        font-size: 16px;
+    }
+
+    .footertext p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 25px;
+        padding-bottom: 25px;
+    }
+
+    .footer-nav ul {
+        padding-top: 22px;
+    }
+
+    .texthero-left h1 {
+        font-size: 35px;
+    }
+
+    .texthero-left h6 br {
+        display: none;
+    }
+
+    .newmainarea .innertext-part h2 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .headertop-area {
+        padding: 6px 10px;
+    }
+
+    .headertop-part p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 13px;
+    }
+
+    .hero-area {
+        padding: 20px 0 10px 0px;
+    }
+
+    .hero-part {
+        display: block;
+    }
+
+    .hero-left {
+        width: 100%;
+    }
+
+    .hero-right {
+        width: 100%;
+        padding-top: 26px;
+    }
+
+    .hero-left h1 {
+        font-size: 28px;
+        line-height: 32px;
+        padding-bottom: 10px;
+    }
+
+    .hero-left h6 br {
+        display: none;
+    }
+
+    .hero-left ul {
+        padding-top: 18px;
+    }
+
+    .hero-left ul li p {
+        font-size: 9.5px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-left: 17px;
+        margin-top: -20px;
+    }
+
+    .hero-left ul li img {
+        height: 14px;
+    }
+
+    .hero-left ul li {
+        padding-right: 3px;
+    }
+
+    .imgitem1 {
+        display: none;
+    }
+
+    .imgitem2 {
+        display: none;
+    }
+
+    .freespingpart {
+        border-radius: 8px;
+        padding: 10px 10px;
+        display: block;
+        height: initial;
+        margin-bottom: 10px;
+    }
+
+    .mainitemleft {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .freespingitem1 {
+        width: 50%;
+        height: 65px;
+        border-radius: 8px;
+    }
+
+    .freespingitem2 {
+        width: 50%;
+    }
+
+    .freespingtext1 {
+        padding-left: 15px;
+    }
+
+    .freespingtext1 h3 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .freespingtext1 p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .mainitemright {
+        width: 100%;
+        gap: 10px;
+    }
+
+    .freespingtext2 p {
+        font-size: 12px;
+        line-height: 27px;
+        padding-top: 6px;
+    }
+
+    .freespingtext2 {
+        width: 23%;
+    }
+
+    .freespingitem3 {
+        width: 22%;
+    }
+
+    .freespingitem4 {
+        width: 55%;
+    }
+
+    .freespingitem3 p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .freespingitem3 h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .freespingitem3 h3 sub {
+        font-size: 10px;
+        bottom: 4px;
+        left: 2px;
+    }
+
+    .freespingitem4 a {
+        font-size: 11px;
+        border-radius: 6px;
+        margin: auto;
+        margin-right: 0px;
+        padding: 12px 5px;
+    }
+
+    .freeOffre-part p {
+        font-weight: 400;
+        font-size: 10px;
+        text-align: left;
+    }
+
+    .bgpart {
+        bottom: -29px;
+        width: 100%;
+    }
+
+    .offerpart {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 80px;
+        height: 19px;
+        background-color: #ffd700;
+        padding: 0px 7px;
+        box-sizing: border-box;
+        display: grid;
+        align-items: center;
+    }
+
+    .freeOffre-part {
+        padding-bottom: 35px;
+    }
+
+    .freesping-area {
+        padding: 20px 0px 0px 0px;
+    }
+
+    .innertext-part {
+        border-radius: 8px;
+        padding: 35px 18px;
+        padding-bottom: 15px;
+        z-index: 99;
+    }
+
+    .innertext-part h2 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-bottom: 25px;
+    }
+
+    .innertextitem1 h3 {
+        font-size: 14px;
+        line-height: 26px;
+        padding-bottom: 6px;
+    }
+
+    .innertextitem1 p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+    .innertextitem2 p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+    .innertextitem2 h3 {
+        font-size: 14px;
+        line-height: 26px;
+        padding-bottom: 6px;
+    }
+
+    .innertextitem2 h6 {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+    .innertextitem2 ul {
+        padding-top: 30px;
+    }
+
+    .innertextitem2 ul li p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        padding-left: 14px;
+        margin-top: -13px;
+    }
+
+    .innertextitem2 {
+        padding-bottom: 25px;
+    }
+
+    .innertextitem2 h5 {
+        font-size: 14px;
+        line-height: 22px;
+        padding-top: 30px;
+    }
+
+    .faq-heading h2 {
+        font-size: 22px;
+        line-height: 35px;
+    }
+
+    .faq-area {
+        padding: 60px 0;
+        padding-bottom: 60px;
+    }
+
+    .faq-heading {
+        padding-bottom: 40px;
+    }
+
+    .ziehharmonika h3 {
+        font-size: 14px;
+        font-weight: 600;
+        text-align: left;
+        padding: 10px 14px;
+        margin-bottom: 14px;
+        padding-right: 36px;
+        position: relative;
+        border-radius: 8px;
+        line-height: 23px;
+    }
+
+    .ziehharmonika .collapseIcon {
+        right: 11px;
+        top: 24px;
+    }
+
+    .ziehharmonika > div {
+        font-size: 13px;
+        line-height: 22px;
+        text-align: left;
+        padding: 14px 14px;
+        margin-bottom: 20px;
+        padding-top: 0;
+        font-weight: 400;
+        padding-right: 25px;
+        text-align: justify;
+    }
+
+    .newfreespins-area {
+        padding-top: 20px;
+    }
+
+    .newfreespins-part {
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 30px;
+        align-items: center;
+        justify-content: space-around;
+        grid-row-gap: 24px;
+    }
+
+    .freespinglogos img {
+        height: 68px;
+    }
+
+    .footer-part {
+        display: block;
+    }
+
+    .footerleft {
+        width: 100%;
+    }
+
+    .footerright {
+        width: 100%;
+    }
+
+    .footer-copyright {
+        padding: 15px 0;
+    }
+
+    .footer-copyright p {
+        font-size: 12px;
+    }
+
+    .footer-nav h3 {
+        font-size: 16px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 14px;
+    }
+
+    .footer-nav ul {
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .footertext p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        padding-bottom: 20px;
+    }
+
+    .footerlogos ul li {
+        margin-right: 3px;
+    }
+
+    .footerlogos ul li a img {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        height: 40px;
+        padding-bottom: 4px;
+    }
+
+    .footerlogos ul {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    .footer-area {
+        padding: 50px 0;
+        padding-bottom: 0px;
+    }
+
+    .innertext-area {
+        padding: 60px 0;
+        padding-top: 20px;
+    }
+
+    .newfreespins-box {
+        padding: 10px;
+        padding-bottom: 10px;
+    }
+
+    .newfespinsitem1-left {
+        width: 50%;
+    }
+
+    .newfespinsitem1-right {
+        width: 50%;
+    }
+
+    .newfespinsitem1-logo {
+        width: 100%;
+        height: 65px;
+    }
+
+    .newfespinsitem1-logo img {
+        height: 63px;
+    }
+
+    .newfreespinsitem1 {
+        gap: 15px;
+        padding-bottom: 10px;
+    }
+
+    .newfespinsitem1-right h3 {
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .newfespinsitem1-right p {
+        font-size: 10px;
+        line-height: 27px;
+        text-align: right;
+    }
+
+    .newfreespinsitem2 {
+        gap: 10px;
+    }
+
+    .hero-left h6 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .hero-right img {
+        display: none;
+    }
+
+    .newfespinsitem2-right a {
+        font-size: 11px;
+    }
+
+    .newfespinsitem2-left h3 span {
+        font-size: 15px;
+        padding: 1px 15px;
+        line-height: 22px;
+        margin-right: 5px;
+    }
+
+    .newfespinsitem2-left h3 {
+        font-size: 12px;
+        line-height: 28px;
+        padding-top: 8px;
+    }
+
+    .newmainarea .innertext-part {
+        padding-bottom: 0;
+        background-image: inherit;
+        padding: 0;
+        padding-top: 40px;
+    }
+
+    .texthero-left h1 {
+        font-size: 30px;
+        line-height: 45px;
+        padding-bottom: 14px;
+        text-align: center;
+    }
+
+    .texthero-left h6 {
+        font-size: 14px;
+        margin: 0;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+    .texthero-left h6 br {
+        display: none;
+    }
+
+    .texthero-left ul {
+        padding-top: 18px;
+        text-align: center;
+    }
+
+    .texthero-left ul li p {
+        font-size: 9.5px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-left: 17px;
+        margin-top: -20px;
+    }
+
+    .texthero-left ul li img {
+        height: 14px;
+    }
+
+    .texthero-left ul li {
+        padding: 0 1px;
+    }
+
+    .texthero-area {
+        padding: 40px 0;
+    }
+
+    .newmainarea .innertext-part h2 {
+        font-size: 25px;
+        line-height: 44px;
+        margin: 0;
+        padding-bottom: 28px;
+    }
+}
