@@ -378,11 +378,11 @@
     .freespingitem3 h3 {
         font-size: 16px;
         line-height: 20px;
+        padding: 0px;
     }
 
-    .freespingitem3 h3 sub {
+    .freespingitem3 h3 span {
         font-size: 10px;
-        bottom: 4px;
         left: 2px;
     }
 

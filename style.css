@@ -522,11 +522,11 @@ ul {
 
 .freespingtext1 h3 {
     color: #fff;
-    font-size: 18px;
+    font-size: 25px;
     text-transform: uppercase;
     font-weight: bold;
     margin: 0;
-    line-height: 30px;
+    line-height: 44px;
 }
 
 .freespingtext1 h3 span {
@@ -557,25 +557,27 @@ ul {
     text-transform: uppercase;
     font-weight: bold;
     margin: 0;
-    line-height: 32px;
+    line-height: 11px;
     text-align: center;
-    padding-top: 6px;
+    padding-top: 18px;
 }
 
 .freespingitem3 h3 {
     color: #ffffff;
     font-size: 30px;
-    font-weight: 800;
+    font-weight: 600;
     margin: 0;
     line-height: 30px;
     text-align: center;
+    padding-bottom: 8px;
 }
 
-.freespingitem3 h3 sub {
+.freespingitem3 h3 span {
     font-size: 16px;
     font-weight: 600;
     position: relative;
-    bottom: 6px;
+    bottom: 0px;
+    color: #ffd700;
 }
 
 .freespingitem3 p {
@@ -584,8 +586,9 @@ ul {
     text-transform: uppercase;
     font-weight: bold;
     margin: 0;
-    line-height: 19px;
+    line-height: 5px;
     text-align: center;
+    padding-top: 1px;
 }
 
 .freespingitem4 a {
